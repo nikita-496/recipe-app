@@ -1,0 +1,21 @@
+.login-form-group {
+  position: relative;
+}
+
+.login-form-input {
+  padding-left: 2.86em;
+}
+
+.login-form-input-icon {
+  position: absolute;
+  left: 8px;
+  top: 12px;
+}
+
+.login-form-button {
+  padding: 0.5em 1.5em;
+}
+
+.login-form-button-social {
+  padding: 0.6em 1em;
+}

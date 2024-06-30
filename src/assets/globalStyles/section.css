@@ -1,0 +1,21 @@
+.section {
+  margin-top: 1.5em;
+}
+.section-title {
+  font-size: var(--fs-xl);
+  font-family: var(--ff-accent);
+  padding: 0.6667em 0;
+}
+
+@media (min-width: 576px) {
+  .section-title {
+    font-size: var(--fs-xxl);
+    padding: 0.4445em 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .section {
+    margin-top: 3em;
+  }
+}

@@ -1,0 +1,35 @@
+.home-card-feature {
+  margin-top: 1.5em;
+}
+
+.load-more {
+  padding: 0.286em 1.715em;
+}
+
+.recommendations-text-with-decoration {
+  display: block;
+  text-decoration-color: var(--clr-primary-500);
+  text-underline-position: under;
+}
+
+@media (min-width: 576px) {
+  .recommendations-text-with-decoration {
+    display: inline;
+  }
+  .load-more {
+    font-size: 1.125rem;
+    padding: 0.222em 1.333em;
+  }
+  .recommendations-title {
+    font-size: 4.75rem;
+  }
+  .recommendations-form-subtitle {
+    font-size: var(--fs-xl);
+  }
+}
+
+@media (min-width: 768px) {
+  .load-more {
+    padding: 0.444em 2.667em;
+  }
+}

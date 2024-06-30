@@ -1,0 +1,9 @@
+.list-item{
+    margin-left: 1.125em;
+}
+
+@media (min-width: 576px) {
+    .list-item{
+        margin-left: 2.1875em;
+    }
+  }

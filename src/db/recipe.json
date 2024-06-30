@@ -1,0 +1,183 @@
+{
+    "id": 1,
+    "meta": {
+            "author": "Tricia Albert",
+            "date": "20.06.24",
+            "rating": 5
+    },
+    "body": {
+        "title": "Strawberry Cream Cheesecake",
+        "images": [],
+        "video": "",
+        "description": "One thing I learned living in the Canarsie section of Brooklyn, NY was how to cook a good Italian meal. Here is a recipe I created after having this dish in a restaurant. Enjoy!",
+        "ingredients": [
+            {
+                "id": 1,
+                "name": "For the crust",
+                "composition": [
+                    {
+                        "id": 1,
+                        "value": 400,
+                        "measure": "g",
+                        "output": "graham crackers" 
+                    },
+                    {
+                        "id": 2,
+                        "value": 150,
+                        "measure": "g",
+                        "output": "unsalted butters, melted" 
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "For the cheescake",
+                "composition": [
+                    {
+                        "id": 3,
+                        "value": 300,
+                        "measure": "g",
+                        "output": "marshmallows" 
+                    },
+                    {
+                        "id": 4,
+                        "value": 175,
+                        "measure": "g",
+                        "output": "unsalted butter, melted" 
+                    },
+                    {
+                        "id": 5,
+                        "value": 500,
+                        "measure": "g",
+                        "output": "Philadelphia cream cheese, softened" 
+                    },
+                    {
+                        "id": 6,
+                        "value": 250,
+                        "measure": "ml",
+                        "output": "thickened/whipping cream, warm" 
+                    },
+                    {
+                        "id": 7,
+                        "value": 3,
+                        "measure": "tbs",
+                        "output": "powdered gelatin " 
+                    },
+                    {
+                        "id": 8,
+                        "value": 3,
+                        "measure": "tbs",
+                        "output": "water " 
+                    },
+                    {
+                        "id": 9,
+                        "value": 5,
+                        "measure": "drops",
+                        "output": "purple food gel " 
+                    },
+                    {
+                        "id": 10,
+                        "value": 3,
+                        "measure": "drops",
+                        "output": "blue food gel " 
+                    }
+                ]
+            }
+        ],
+        "instructions": [
+            {
+                "step": 1,
+                "description": "To prepare crust add graham crackers to a food processor and process until you reach fine crumbs. Add melted butter and pulse 3-4 times to coat crumbs with butter." 
+            },
+            {
+                "step": 2,
+                "description": "Pour mixture into a 20cm (8”) tart tin. Use the back of a spoon to firmly press the mixture out across the bottom and sides of the tart tin. Chill for 30 min."
+            },
+            {
+                "step": 3,
+                "description": "Begin by adding the marshmallows and melted butter into a microwave safe bowl. Microwave for 30 seconds and mix to combine. Set aside." 
+            },
+            {
+                "step": 4,
+                "description": "Next, add the gelatine and water to a small mixing bowl and mix to combine. Microwave for 30 seconds." 
+            },
+            {
+                "step": 5,
+                "description": "Add the cream cheese to the marshmallow mixture and use a hand mixer or stand mixer fitted with a paddle attachment to mix until smooth." 
+            },
+            {
+                "step": 6,
+                "description": "Add the warm cream and melted gelatin mixture and mix until well combined." 
+            },
+            {
+                "step": 7,
+                "description": "Add 1/3 of the mixture to a mixing bowl, add purple food gel and mix until well combined. Colour 1/3 of the mixture blue. Split the remaining mixture into two mixing bowls, colour one pink and leave the other white." 
+            },
+            {
+                "step": 8,
+                "description": "Pour half the purple cheesecake mixture into the chill tart crust. Add half the blue and then add the remaining purple and blue in the tart tin. Use a spoon to drizzle some pink cheesecake on top. Use a skewer or the end of a spoon to swirl the pink. Add some small dots of the plain cheesecake mixture to create stars and then sprinkle some more starts on top before chilling for 2 hours." 
+            },
+            {
+                "step": 9,
+                "description": "Slice with a knife to serve." 
+            }
+        ],
+        "servicing": 4,
+        "cooking time": {
+            "hours": 0,
+            "minutes": 15
+        },
+        "prep time": {
+            "hours": 0,
+            "minutes": 15
+        },
+        "nutrition facts": [
+            {
+                "name": "calories", 
+                "value": 219.9,
+                "measure": "g"
+            },
+            {
+                "name": "total fat", 
+                "value": 10.7,
+                "measure": "g"
+            },
+            {
+                "name": "saturated fat", 
+                "value": 2.2,
+                "measure": "g"
+            },
+            {
+                "name": "cholesterol", 
+                "value": 37.4,
+                "measure": "g"
+            },
+            {
+                "name": "sodium", 
+                "value": 120.3,
+                "measure": "g"
+            },
+            {
+                "name": "potassium", 
+                "value": 32.8,
+                "measure": "g"
+            },
+            {
+                "name": "total carbohydrate", 
+                "value": 22.3,
+                "measure": "g"
+            },
+            {
+                "name": "sugars", 
+                "value": 8.4,
+                "measure": "g"
+            },
+            {
+                "name": "protein", 
+                "value": 7.9,
+                "measure": "g"
+            }
+        ]
+    }  
+    
+}

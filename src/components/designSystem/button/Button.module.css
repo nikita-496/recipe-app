@@ -1,0 +1,29 @@
+.button {
+  font-family: var(--ff-primary);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button-border-none {
+  border: none;
+}
+
+.button-text-500 {
+  background: var(--clr-primary-500);
+  color: var(--clr-neutral-100);
+}
+
+.button-outlined {
+  background-color: transparent;
+  border: 1px solid #000;
+  border-radius: 4px;
+  line-height: 1.5;
+}
+
+.button-primary {
+  composes: button-border-none button-text-500;
+}
+
+.button-primary:hover {
+  background-color: var(--clr-primary-400);
+}

@@ -1,0 +1,48 @@
+.text-size-xxs {
+  font-size: var(--fs-xxs);
+}
+.text-size-xs {
+  font-size: var(--fs-xs);
+}
+.text-size-s {
+  font-size: var(--fs-s);
+}
+.text-size-base {
+  font-size: var(--fs-base);
+}
+.text-size-m {
+  font-size: var(--fs-m);
+}
+.text-size-l {
+  font-size: var(--fs-l);
+}
+.text-size-xl {
+  font-size: var(--fs-xl);
+}
+.text-size-2xl {
+  font-size: var(--fs-2xl);
+}
+.text-size-xxl {
+  font-size: var(--fs-xxl);
+}
+
+.text-weight-s {
+  font-weight: 300;
+}
+.text-weight-m {
+  font-weight: 500;
+}
+.text-weight-l {
+  font-weight: 600;
+}
+.text-weight-xl {
+  font-weight: 700;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.h-full {
+  height: 100%;
+}

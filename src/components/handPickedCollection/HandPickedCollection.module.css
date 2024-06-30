@@ -1,0 +1,12 @@
+@media (min-width: 576px) {
+  .hand-picked-collections-title {
+    font-size: var(--fs-xl);
+  }
+}
+@media (min-width: 768px) {
+  .hand-picked-collections-title {
+    font-size: 3.125rem;
+    padding-top: 0.32em;
+    padding-bottom: 0.32em;
+  }
+}

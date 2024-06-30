@@ -1,0 +1,19 @@
+.list-item{
+    padding: 0.3125em 0.5em;
+}
+
+.list-item:not(:first-child){
+    border-left: 1px solid var(--clr-neutral-400);
+}
+
+.list-item small{
+    line-height: 0.917;
+    text-transform: uppercase;
+}
+
+@media (min-width: 576px) {
+    .list-item{
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+  }

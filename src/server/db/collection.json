@@ -1,0 +1,51 @@
+{
+ "collections": [
+    {
+        "id": 1,
+        "name": "Super Delicious",
+        "recipes": [1, 2]
+     },
+     {
+        "id": 2,
+        "name": "Sweet Tooth",
+        "recipes": [1, 2]
+     },
+     {
+      "id": 3,
+      "name": "Sushi Combos for your Next Party",
+      "recipes": [1, 2, 2, 2, 2, 2, 2],
+      "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/sushi.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Everything Bagel",
+      "recipes": [1, 2, 2, 2, 2, 2, 2],
+      "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/sushi.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cook Like a Chef",
+      "recipes": [1, 2, 2, 2, 2, 2, 2],
+       "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/sushi.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Exquisite Dinner Recipe Ideas",
+      "recipes": [1, 2, 2, 2, 2, 2, 2],
+       "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/sushi.jpg"
+    },
+    {
+      "id": 7,
+      "name": "The Ultimate Cookie Frenzy",
+      "recipes": [1, 2, 2, 2, 2, 2, 2],
+       "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/sushi.jpg"
+    },
+    {
+      "id": 8,
+      "name": "For the Love of Donuts",
+      "recipes": [1, 2, 2, 2, 2, 2, 2],
+       "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/sushi.jpg"
+    }
+
+ ]
+}

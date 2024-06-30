@@ -1,0 +1,19 @@
+.card-category-bottom {
+  border: none;
+  margin-top: 1.5em;
+}
+
+@media (min-width: 768px) {
+  .card-category-image {
+    width: 10em;
+  }
+  .card-top-category {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media (min-width: 990px) {
+  .card-category-image {
+    width: 100%;
+  }
+}

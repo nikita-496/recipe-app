@@ -1,0 +1,23 @@
+.panel-wrapper {
+  margin: 0 -0.5em;
+}
+
+.join-form-wrapper {
+  background-color: var(--clr-primary-300);
+  border-radius: 6px;
+}
+
+.join-form-input-icon {
+  position: absolute;
+  left: 13px;
+  top: 8px;
+}
+
+@media (min-width: 576px) {
+  .join-form-title {
+    font-size: var(--fs-xxl);
+  }
+  .join-form-subhead {
+    font-size: var(--fs-base);
+  }
+}

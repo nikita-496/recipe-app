@@ -1,0 +1,12 @@
+.card-author-bottom, .card-recipe-bottom{
+    border: none;
+}
+.card-recipe-bottom{
+    margin-top: 0.5em;
+}
+
+@media (min-width: 576px) {
+  .card-recipe a {
+    font-size: var(--fs-l);
+  }
+}

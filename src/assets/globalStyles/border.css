@@ -1,0 +1,9 @@
+.full-rounded {
+  border-radius: 6px;
+}
+.top-rounded {
+  border-radius: 6px 6px 0 0;
+}
+.bottom-rounded {
+  border-radius: 0 0 6px 6px;
+}

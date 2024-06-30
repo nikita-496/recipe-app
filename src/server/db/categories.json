@@ -1,0 +1,52 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "name": "Seafood",
+            "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/seafood.png",
+            "isPopularCategories": true
+        },
+        {
+            "id": "2",
+            "name": "Soup",
+             "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/seafood.png",
+             "isPopularCategories": false
+        },
+        {
+            "id": "3",
+            "name": "Pancakes",
+             "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/seafood.png",
+             "isPopularCategories": true
+        },
+        {
+            "id": "4",
+            "name": "Meat",
+             "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/seafood.png",
+             "isPopularCategories": true
+        },  
+        {
+            "id": "5",
+            "name": "Chicken",
+             "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/seafood.png",
+             "isPopularCategories": true
+        },  
+        {
+            "id": "6",
+            "name": "Less than 30 min",
+             "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/seafood.png",
+             "isPopularCategories": true
+        },
+        {
+            "id": "7",
+            "name": "Pasta",
+             "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/seafood.png",
+             "isPopularCategories": false
+        },
+        {
+            "id": "8",
+            "name": "Pizza",
+            "image": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/seafood.png",
+            "isPopularCategories": true
+        }    
+    ]
+}

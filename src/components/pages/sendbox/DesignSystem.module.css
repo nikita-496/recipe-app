@@ -1,0 +1,46 @@
+.wrapper {
+  margin-top: 3em;
+  display: flex;
+  gap: 2em;
+  flex-direction: column;
+
+  align-items: center;
+}
+
+.wrapper > div {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+
+.button-learn-more {
+  padding: 2em;
+}
+
+.input-icon {
+  position: absolute;
+}
+
+.input-outlined-icon {
+  top: 13px;
+  left: 4px;
+}
+.input-unframed-icon {
+  top: 12px;
+  left: 14px;
+}
+
+.input-icon-search-right {
+  top: 10px;
+  right: 15px;
+}
+
+.button-join {
+  padding: 1.2em 2.3333em;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.input-mail {
+  padding-left: 3.42857em;
+}

@@ -1,0 +1,11 @@
+.recipe-comment-textarea {
+  background: transparent;
+  padding: 1em;
+  height: 15.625em;
+}
+
+.recipe-comment-button {
+  padding-top: 0.438em;
+  padding-bottom: 0.438em;
+  line-height: 1.5;
+}

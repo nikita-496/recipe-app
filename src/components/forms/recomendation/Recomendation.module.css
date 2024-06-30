@@ -1,0 +1,33 @@
+.form-group {
+  position: relative;
+}
+
+.recomendation-input {
+  padding: 1.086em 0.857em 1.086em 1.071em;
+
+  border: none;
+  margin-bottom: 0.715em;
+}
+
+.recomendation-button {
+  padding-top: 0.7345em;
+  padding-bottom: 0.7345em;
+}
+@media (min-width: 576px) {
+  .recomendation-input {
+    font-size: var(--fs-base);
+    padding: 1.525em 0.857em 1.525em 1.563em;
+
+    border: none;
+    margin-bottom: 0.715em;
+  }
+  .recomendation-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: auto;
+    padding: 1.29em 2.393em;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+}

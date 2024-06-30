@@ -1,0 +1,18 @@
+.media {
+    padding: 0.625em 0 1.875em 0;
+    margin-bottom: 2.1875em;
+    border-bottom: 1px solid var(--clr-neutral-400);
+}
+.reply-button{
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.button-icon{
+    margin-right: 0.5em;
+}
+
+.list-item:not(:first-child) {
+    margin-left: 1.5625em;
+}

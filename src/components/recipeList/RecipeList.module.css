@@ -1,0 +1,18 @@
+.freshRecipe-crad{
+    height: 23.48vw;
+    gap: 1em;
+    align-items: center;
+}
+
+@media (min-width: 576px) {
+    .freshRecipe-crad{
+        height: 8.04em;
+    }
+}
+
+@media (min-width: 768px) {
+    .freshRecipe-crad{
+        height: 4.3em;
+        align-items: flex-start;
+    }
+}

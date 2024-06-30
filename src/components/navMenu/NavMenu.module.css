@@ -1,0 +1,8 @@
+.nav-list-primary {
+  margin: 0 auto;
+  gap: 2.88em;
+}
+
+.nav-link {
+  color: var(--clr-neutral-900);
+}

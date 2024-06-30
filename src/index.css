@@ -1,0 +1,75 @@
+:root {
+  --clr-primary-300: #ffd8ca;
+  --clr-primary-400: #ff8051;
+  --clr-primary-500: #ff642b;
+  --clr-secondary-300: #e4f1ff;
+
+  --clr-neutral-100: #ffffff;
+  --clr-neutral-200: #f8f8f8;
+  --clr-neutral-300: #f9f9f9;
+  --clr-neutral-400: #e8e8e8;
+  --clr-neutral-500: #7f7f7f;
+  --clr-neutral-600: #495057;
+  --clr-neutral-800: #303030;
+  --clr-neutral-900: #000;
+
+  --ff-primary: 'Inter', sans-serif;
+  --ff-accent: 'Playfair Display', sans-serif;
+
+  --flex-filling: 0 0 auto;
+
+  --spacer: 1rem;
+  --spacing-1: calc(var(--spacer) * 0.25);
+  --spacing-2: calc(var(--spacer) * 0.5);
+  --spacing-3: var(--spacer);
+  --spacing-4: calc(var(--spacer) * 1.5);
+  --spacing-5: calc(var(--spacer) * 3);
+
+  --fs-xxs: 0.625rem;
+  --fs-xs: 0.75rem;
+  --fs-s: 0.875rem;
+  --fs-base: 1rem;
+  --fs-m: 1.125rem;
+  --fs-l: 1.25rem;
+  --fs-xl: 1.5rem;
+  --fs-2xl: 1.875rem;
+  --fs-xxl: 2.25rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  font-family: var(--ff-primary);
+  line-height: 1.5;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.2;
+  font-size: var(--fs-base);
+}

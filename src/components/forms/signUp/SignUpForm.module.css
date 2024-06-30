@@ -1,0 +1,17 @@
+.signup-form-group {
+  position: relative;
+}
+
+.signup-form-input {
+  padding-left: 2.86em;
+}
+
+.signup-form-input-icon {
+  position: absolute;
+  left: 8px;
+  top: 12px;
+}
+
+.signup-form-button {
+  padding: 0.5em 1.5em;
+}

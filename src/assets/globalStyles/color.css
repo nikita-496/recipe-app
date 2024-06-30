@@ -1,0 +1,22 @@
+.text-primary {
+  color: var(--clr-primary-500);
+}
+
+.text-gray {
+  color: var(--clr-neutral-500);
+}
+
+.text-dark-gray {
+  color: var(--clr-neutral-800);
+}
+
+.bg-primary {
+  background-color: var(--clr-primary-500);
+}
+.bg-lightest-gray {
+  background-color: var(--clr-neutral-300);
+}
+
+.error-message {
+  color: red;
+}

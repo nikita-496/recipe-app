@@ -1,0 +1,13 @@
+.list {
+    margin: 0;
+    padding: 0;
+}
+  
+.list-row {
+    display: flex;
+    align-items: center;
+}
+  
+.list-item-unmarker {
+    list-style: none;
+}

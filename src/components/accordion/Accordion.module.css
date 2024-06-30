@@ -1,0 +1,40 @@
+.button-icon {
+  border: none;
+  background: transparent;
+}
+.icon-arrow {
+  cursor: pointer;
+}
+
+.list-none {
+  display: none;
+}
+
+.caption {
+  padding-top: 0.929em;
+  padding-bottom: 0.36em;
+}
+
+.caption:not(:nth) {
+  margin-top: 0.215em;
+}
+
+.accordion-item {
+  text-decoration: none;
+}
+
+.accordion-list li + li {
+  padding-top: 0.43em;
+}
+
+.divider {
+  margin: 0 0 1em 0;
+  border-color: var(--clr-neutral-300);
+  opacity: 0.5;
+}
+
+@media (min-width: 768px) {
+  .accordion-divider {
+    display: none;
+  }
+}

@@ -1,0 +1,20 @@
+.list-instruction{
+    padding-top: 0.938em;
+}
+.list-item-step{
+    width: 1.714em;
+    height: 1.714em;
+    background-color: var(--clr-primary-500);
+    color: var(--clr-neutral-100);
+    border-radius: 100%;
+    position: absolute;
+    left: 0;
+}
+.list-item{
+    line-height: 1.6429;
+    padding-left: 2.5em;
+    position: relative;
+}
+.list-item:not(:first-child){
+ margin-top: 1.875em;   
+}

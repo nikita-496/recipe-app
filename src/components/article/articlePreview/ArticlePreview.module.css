@@ -1,0 +1,17 @@
+.preview-description {
+  line-height: 1.6429;
+}
+
+.video-player-action {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@media (min-width: 768px) {
+  .preview-description {
+    font-size: 1.25rem;
+    line-height: 1.85;
+  }
+}

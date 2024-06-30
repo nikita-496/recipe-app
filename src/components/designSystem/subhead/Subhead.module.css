@@ -1,0 +1,12 @@
+.subhead span{
+    margin-left: 0.572em;
+}
+.subhead-icon{
+    vertical-align: middle;
+}
+
+@media (min-width: 576px) {
+    .subhead span{
+      font-size: var(--fs-s);
+    }
+  }

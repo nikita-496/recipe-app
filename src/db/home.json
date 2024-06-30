@@ -1,0 +1,178 @@
+
+    {
+        "feature": [
+            {
+                "id": 1,
+                "title": "Mighty Super Cheesecake",
+                "supportingText": "Look no further for a creamy and ultra smooth classic cheesecake recipe! no one can deny its simple decadence."
+            }  
+        ],
+        "recipe": [
+            {
+              "id": 1,
+              "title": "Cheesecake",
+              "rating": 5
+            },
+            {
+              "id": 2,
+              "title": "Cheesecake",
+              "rating": 4
+            },
+            {
+              "id": 3,
+              "title": "Cheesecake",
+              "rating": 5
+            }
+          ],
+          "category": [
+            {
+              "id": 1,
+              "title": "Pasta"
+            },
+            {
+              "id": 2,
+              "title": "Pasta"
+            },
+            {
+              "id": 3,
+              "title": "Pasta"
+            },
+            {
+              "id": 4,
+              "title": "Pasta"
+            },
+            {
+              "id": 5,
+              "title": "Pasta"
+            },
+            {
+              "id": 6,
+              "title": "Pasta"
+            }
+          ],
+          "collection": [
+            {
+              "id": 1,
+              "title": "Pasta"
+            },
+            {
+              "id": 2,
+              "title": "Pasta"
+            },
+            {
+              "id": 3,
+              "title": "Pasta"
+            },
+            {
+              "id": 4,
+              "title": "Pasta"
+            },
+            {
+              "id": 5,
+              "title": "Pasta"
+            },
+            {
+              "id": 6,
+              "title": "Pasta"
+            }
+          ],
+          "latestRecipes": [
+            {
+              "id": 1,
+              "title": "Pasta"
+            },
+            {
+              "id": 2,
+              "title": "Pasta"
+            },
+            {
+              "id": 3,
+              "title": "Pasta"
+            },
+            {
+              "id": 4,
+              "title": "Pasta"
+            },
+            {
+              "id": 5,
+              "title": "Pasta"
+            },
+            {
+              "id": 6,
+              "title": "Pasta"
+            },
+            {
+              "id": 7,
+              "title": "Pasta"
+            },
+            {
+              "id": 8,
+              "title": "Pasta"
+            },
+            {
+              "id": 9,
+              "title": "Pasta"
+            },
+            {
+              "id": 10,
+              "title": "Pasta"
+            },
+            {
+              "id": 11,
+              "title": "Pasta"
+            },
+            {
+              "id": 12,
+              "title": "Pasta"
+            },
+            {
+              "id": 13,
+              "title": "Pasta"
+            },
+            {
+              "id": 14,
+              "title": "Pasta"
+            },
+            {
+              "id": 15,
+              "title": "Pasta"
+            },
+            {
+              "id": 16,
+              "title": "Pasta"
+            },
+            {
+              "id": 17,
+              "title": "Pasta"
+            },
+            {
+              "id": 18,
+              "title": "Pasta"
+            },
+            {
+              "id": 19,
+              "title": "Pasta"
+            },
+            {
+              "id": 20,
+              "title": "Pasta"
+            },
+            {
+              "id": 21,
+              "title": "Pasta"
+            },
+            {
+              "id": 22,
+              "title": "Pasta"
+            },
+            {
+              "id": 23,
+              "title": "Pasta"
+            },
+            {
+              "id": 24,
+              "title": "Pasta"
+            }
+          ]
+
+    }

@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Алиса",
+      "email": "alice@gmail.com",
+      "password": "alice12345",
+      "avatar": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/avatar7.png",
+      "recipes": [1],
+      "blogs": [2,5],
+      "comments": [3, 8],
+      "favoriteRecipes": [6, 2],
+      "rank": "Editor in chief"
+    },
+    {
+      "id": 2,
+      "name": "Никита",
+      "email": "nikita@gmail.com",
+      "password": "nikita12345",
+      "avatar": "https://raw.githubusercontent.com/nikita-496/recipe-asset/master/avatar7.png",
+      "recipes": [6],
+      "blogs": [1,4],
+      "comments": [3, 8],
+      "favoriteRecipes": [6, 2],
+      "rank": "Editor in chief"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+.form-button {
+  line-height: 0.928;
+  padding: 0.678em 1.774em;
+}
+
+.divider {
+  border-color: var(--clr-neutral-400);
+  opacity: 0.2;
+}

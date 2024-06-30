@@ -1,0 +1,44 @@
+{
+    "comments": [
+        {
+            "id": 1,
+            "author": 1,
+            "text": "Synth polaroid bitters chillwave pickled. Vegan disrupt tousled, Portland keffiyeh aesthetic food truck sriracha cornhole single-origin coffee church-key roof party.",
+            "created": "2024-06-26T09:15:36Z",
+            "likes": 24,
+            "post": 1
+        },
+        {
+            "id": 2,
+            "author": 2,
+            "text": "Synth polaroid bitters chillwave pickled. Vegan disrupt tousled, Portland keffiyeh aesthetic food truck sriracha cornhole single-origin coffee church-key roof party.",
+            "created": "2024-06-26T09:15:36Z",
+            "likes": 8,
+            "post": 2
+        },
+        {
+            "id": 3,
+            "author": 1,
+            "text": "Synth polaroid bitters chillwave pickled. Vegan disrupt tousled, Portland keffiyeh aesthetic food truck sriracha cornhole single-origin coffee church-key roof party.",
+            "created": "2024-06-26T09:15:36Z",
+            "likes": 0,
+            "post": 1
+        },
+        {
+            "id": 4,
+            "author": 2,
+            "text": "Synth polaroid bitters chillwave pickled. Vegan disrupt tousled, Portland keffiyeh aesthetic food truck sriracha cornhole single-origin coffee church-key roof party.",
+            "created": "2024-06-26T09:15:36Z",
+            "likes": 12,
+            "post": 1
+        },
+        {
+            "id": 5,
+            "author": 2,
+            "text": "Synth polaroid bitters chillwave pickled. Vegan disrupt tousled, Portland keffiyeh aesthetic food truck sriracha cornhole single-origin coffee church-key roof party.",
+            "created": "2024-06-26T09:15:36Z",
+            "likes": 12,
+            "post": 3
+        }
+    ]
+}
